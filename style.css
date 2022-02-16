@@ -54,3 +54,7 @@ img {
   text-align: center;
   width: 100%;
 }
+
+p {
+  margin-left: 1em;
+}
