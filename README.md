@@ -1,1 +1,1 @@
-
+Full stack hobbyist developer.
