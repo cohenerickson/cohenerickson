@@ -1,7 +1,3 @@
-# Cohen Erickson
-
-## Full stack hobbyist developer.
-
 # Projects
 
 [Radon Games](https://radon-games.glitch.me/)
