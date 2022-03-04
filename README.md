@@ -1,35 +1,12 @@
-# Projects
+# [Cohen Erickson](https://cohenerickson.com/)
 
-[Radon Games](https://radon-games.glitch.me/)
-> An open-source unblocked games website built with simplicity in mind.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cohenerickson&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/cohenerickson/)
 
-[Create PT](https://pt.cohenerickson.com/)
-> Video game built for a school project.
+## Active projects:
 
-[Web OS](https://os.cohenerickson.repl.co/)
-> Operating built using Javascript and runs in the web.
+[![Radon Games](https://github-readme-stats.vercel.app/api/pin/?username=cohenerickson&repo=radon-games&theme=tokyonight)](https://github.com/cohenerickson/radon-games)
+---
 
-[JS DevTools](https://js-devtools.glitch.me/)
-> DevTools made in vanilla JS for chromebooks.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohenerickson&theme=tokyonight)](https://github.com/cohenerickson/)
 
-[Appeal (broken)](https://appeal0400.glitch.me/)
-> Appeal is a minimalistic discord bot for moderation, utilities, and more.
-
-# Skills
-
-<img src="/assets/html5.png" title="HTML" style="height:4rem;margin-left:1rem;"/>
-<img src="/assets/css.png" title="CSS" style="height:4rem;margin-left:1rem;"/>
-<img src="/assets/tailwind.png" title="Tailwind CSS" style="height:4rem;margin-left:1rem;"/>
-<img src="/assets/js.png" title="JavaScript" style="height:4rem;margin-left:1rem;"/>
-<img src="/assets/node.png" title="Node JS" style="height:4rem;margin-left:1rem;"/>
-<img src="/assets/java.svg" title="Java" style="height:4rem;margin-left:1rem;"/>
-
-# Programs
-
-<img src="/assets/vscode.png" title="Visual Studio Code" style="height:4rem;margin-left:1rem;"/>
-<img src="/assets/git.png" title="Git" style="height:4rem;margin-left:1rem;"/>
-<img src="/assets/android-studio.png" title="Android Studio" style="height:4rem;margin-left:1rem;"/>
-
-[Contact](mailto:cohenerickson@gmail.com)
-
-Cohen#9959
+Contact me via [email](mailto:cohenerickson@gmail.com) or on Discord at Cohen#9959
