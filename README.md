@@ -4,7 +4,7 @@
 
 ## Active projects:
 
-[![Radon Games](https://github-readme-stats.vercel.app/api/pin/?username=cohenerickson&repo=radon-games&theme=tokyonight)](https://github.com/cohenerickson/radon-games)
+[![Radon Games](https://github-readme-stats.vercel.app/api/pin/?username=Radon-Games&repo=Radon-Games&theme=tokyonight)](https://github.com/Radon-Games/Radon-Games)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohenerickson&theme=tokyonight)](https://github.com/cohenerickson/)
