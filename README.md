@@ -4,7 +4,9 @@
 
 ## Active projects:
 
+[![Osana](https://github-readme-stats.vercel.app/api/pin/?username=NebulaServices&repo=Osana&theme=tokyonight)](https://github.com/NebulaServices/Osana)
 [![Radon Games](https://github-readme-stats.vercel.app/api/pin/?username=Radon-Games&repo=Radon-Games&theme=tokyonight)](https://github.com/Radon-Games/Radon-Games)
+[![Zeno](https://github-readme-stats.vercel.app/api/pin/?username=cohenerickson&repo=Zeno&theme=tokyonight)](https://github.com/cohenerickson/Zeno)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cohenerickson&theme=tokyonight)](https://github.com/cohenerickson/)
