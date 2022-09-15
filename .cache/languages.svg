@@ -31,10 +31,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="748.2890271174338" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="748.2890271174338" y="0" width="105.28228064570688" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="853.5713077631406" y="0" width="48.92011350609813" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="902.4914212692388" y="0" width="17.50857873076128" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="747.1241956984466" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="747.1241956984466" y="0" width="105.11171336986287" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="852.2359090683094" y="0" width="49.4242800334338" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="901.6601891017432" y="0" width="18.339810898256733" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -47,7 +47,7 @@
                             </div>
                             <small>
                                 <div>865 kB</div>
-                                <div>81.34%</div>
+                                <div>81.21%</div>
                             </small>
                         </div>
                     </section>
@@ -61,7 +61,7 @@
                             </div>
                             <small>
                                 <div>121 kB</div>
-                                <div>11.44%</div>
+                                <div>11.43%</div>
                             </small>
                         </div>
                     </section>
@@ -74,8 +74,8 @@
                                 CSS
                             </div>
                             <small>
-                                <div>56.5 kB</div>
-                                <div>5.32%</div>
+                                <div>57.2 kB</div>
+                                <div>5.37%</div>
                             </small>
                         </div>
                     </section>
@@ -88,8 +88,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>20.2 kB</div>
-                                <div>1.9%</div>
+                                <div>21.2 kB</div>
+                                <div>1.99%</div>
                             </small>
                         </div>
                     </section>
