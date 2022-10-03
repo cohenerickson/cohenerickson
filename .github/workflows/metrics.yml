@@ -32,4 +32,3 @@ jobs:
           plugin_languages_limit: 100
           plugin_languages_details: bytes-size, percentage
           plugin_languages_threshold: 1%
-          repositories_skipped: Illusive
