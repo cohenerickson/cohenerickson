@@ -7,10 +7,5 @@
 </p>
 
 ___
-**Data**
 
 <%- await embed(`base`, {base:"activity, community, repositories"}) %>
-
-___
-
-<%- await embed(`languages`, {languages:true, languages_details:"percentage, bytes-size", config_display:"large"}) %>
